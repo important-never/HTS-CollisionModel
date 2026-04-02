@@ -1,0 +1,9 @@
+Method,Parameters,Physical basis,Prediction target,Interpretability,Key limitation
+Boolean networks,0,None,State transitions,High,No dynamics
+ODE / mass-action,"10³–10⁴",Enzyme kinetics,Concentrations,Medium,Parameter explosion
+Scale-free / BA,2,None,Hub connectivity,Low,No molecular physics
+FBA / TMFA,Stoichiometry,Thermodynamics,Flux distribution,Medium,No pair-level encounters
+"Deep learning (UniKP, dGbyG)",~10⁶,None (learned),"kcat, ΔG",Very low,Black box + leakage risk
+Ψ × J × S (this work),0,Smoluchowski + kinetics,Encounter propensity,Very high,Static (no dynamics)
+,,,,,
+Note,"Parameters = quantities fitted to training data. Ψ × J × S derives all scores from independently measured physical constants (diffusion, concentration, kcat/Km) with zero fitted parameters.",,,,

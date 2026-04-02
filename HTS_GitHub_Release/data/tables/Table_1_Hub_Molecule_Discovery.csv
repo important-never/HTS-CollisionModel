@@ -1,0 +1,9 @@
+Evidence,GTP,Acetyl-CoA,ATP
+Biological role,Nucleotide signaling relay,Carbon-flux router,Energy currency
+Mean RRI ± SE,12.50 ± 3.77,41.61 ± 4.74,17.92 ± 2.54
+S-shuffle Δ ± SE,10.88 ± 4.21,32.11 ± 5.97,15.90 ± 2.43
+Cross-species concordance,87.7%,98.2%,78.9%
+Robustness σ_break,≈1.0 *,>5.0,≈5.0
+Molecule-specific test,"NTP bootstrap p ≤ 0.010","Redox module p ≤ 0.015","Δrank = 24–41"
+,,,
+Note,"RRI = mean rank improvement of validated partners when S-layer is included (positive = S-layer helps). SE across n = 3 species (E. coli, S. cerevisiae, iBMK mammalian). All species-level Wilcoxon p < 10⁻³⁸ for S-shuffle Δ. * GTP σ_break reflects Yeast (most vulnerable); E. coli ≈ 3.2, Mammalian > 5.0.",,

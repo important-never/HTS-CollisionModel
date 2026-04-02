@@ -1,0 +1,6 @@
+Species,N,RRI_real,RRI_shuffled,Δ,Wilcoxon p
+E. coli,300,22.10,2.20,19.90,3.04e-51
+Mammalian,300,29.72,5.07,24.65,3.64e-49
+S. cerevisiae,300,20.22,5.89,14.33,2.85e-38
+,,,,,
+Note,"S-layer values randomly permuted across all molecule pairs (100 seeds × 3 anchors). Wilcoxon signed-rank test, one-sided (H₁: Δ > 0). RRI = mean(rank_J − rank_TL) for validated enzyme–substrate pairs.",,,,

@@ -1,0 +1,241 @@
+species,anchor
+E.coli,30S ribosomal protein S1 (RpsA)
+E.coli,ATP synthase subunit alpha (AtpA)
+E.coli,Citrate synthase (GltA)
+E.coli,Cytochrome bo3 ubiquinol oxidase subunit I (CyoB)
+E.coli,Enolase (Eno)
+E.coli,Fructose-bisphosphate aldolase (FbaA)
+E.coli,GAPDH (GapA)
+E.coli,Glucokinase (Glk)
+E.coli,Isocitrate dehydrogenase (Icd)
+E.coli,Lactate dehydrogenase (LdhA)
+E.coli,Malate dehydrogenase (Mdh)
+E.coli,MreB (actin homologue)
+E.coli,Phosphofructokinase (PfkA)
+E.coli,Phosphoglycerate kinase (Pgk)
+E.coli,Pyruvate kinase I (PykF)
+E.coli,RNA polymerase beta' (RpoC)
+E.coli,Succinate dehydrogenase (SdhA)
+E.coli,groL (b4143)
+E.coli,aceA (b4015)
+E.coli,glyA (b2551)
+E.coli,gpmA (b0755)
+E.coli,ridA (b4243)
+E.coli,ahpC (b0605)
+E.coli,sodA (b3908)
+E.coli,gatY (b2096)
+E.coli,atpD (b3732)
+E.coli,pflB (b0903)
+E.coli,gatB (b2093)
+E.coli,tpx (b1324)
+E.coli,cysK (b2414)
+E.coli,tnaA (b3708)
+E.coli,adk (b0474)
+E.coli,ppa (b4226)
+E.coli,metE (b3829)
+E.coli,pyrB (b4245)
+E.coli,talB (b0008)
+E.coli,aceE (b0114)
+E.coli,tpiA (b3919)
+E.coli,purA (b4177)
+E.coli,ilvC (b3774)
+E.coli,aldA (b1415)
+E.coli,adhE (b1241)
+E.coli,lpd (b0116)
+E.coli,sucC (b0728)
+E.coli,ndk (b2518)
+E.coli,rpoA (b3295)
+E.coli,fabB (b2323)
+E.coli,sucD (b0729)
+E.coli,gnd (b2029)
+E.coli,udp (b3831)
+E.coli,aceF (b0115)
+E.coli,osmC (b1482)
+E.coli,fabI (b1288)
+E.coli,wrbA (b1004)
+E.coli,metK (b2942)
+E.coli,serA (b2913)
+E.coli,aspA (b4139)
+E.coli,rpoZ (b3649)
+E.coli,upp (b2498)
+E.coli,aspC (b0928)
+E.coli,aceB (b4014)
+E.coli,acnB (b0118)
+E.coli,dapD (b0166)
+E.coli,gatA (b2094)
+E.coli,rpoB (b3987)
+E.coli,ppiB (b0525)
+E.coli,asd (b3433)
+E.coli,gadA (b3517)
+E.coli,ribE (b0415)
+E.coli,serC (b0907)
+E.coli,purC (b2476)
+E.coli,pnp (b3164)
+E.coli,ptsI (b2416)
+E.coli,guaB (b2508)
+E.coli,sucB (b0727)
+E.coli,glnA (b3870)
+E.coli,rpiA (b2914)
+E.coli,sodB (b1656)
+E.coli,fabA (b0954)
+E.coli,luxS (b2687)
+Mammalian,ATP synthase subunit alpha
+Mammalian,Actin
+Mammalian,Aldolase (ALDOA)
+Mammalian,Citrate synthase (CS)
+Mammalian,Cytochrome c
+Mammalian,Enolase (ENO1)
+Mammalian,GAPDH
+Mammalian,Hexokinase
+Mammalian,Isocitrate dehydrogenase (IDH1)
+Mammalian,Lactate dehydrogenase (LDHA)
+Mammalian,Malate dehydrogenase (MDH1)
+Mammalian,Phosphofructokinase (PFKM)
+Mammalian,Phosphoglycerate kinase (PGK1)
+Mammalian,Pyruvate kinase (PKM)
+Mammalian,RNA polymerase II subunit A
+Mammalian,Ribosomal protein
+Mammalian,APOA1
+Mammalian,TTR
+Mammalian,HPX
+Mammalian,PPIA
+Mammalian,GSN
+Mammalian,FGG
+Mammalian,FGA
+Mammalian,HSPD1
+Mammalian,HBD
+Mammalian,CFB
+Mammalian,PTGDS
+Mammalian,ATP5F1B
+Mammalian,GSTP1
+Mammalian,TPI1
+Mammalian,PRDX1
+Mammalian,SOD1
+Mammalian,HSPA5
+Mammalian,PRDX2
+Mammalian,GPX3
+Mammalian,LYZ
+Mammalian,PON1
+Mammalian,NME2
+Mammalian,ILK
+Mammalian,PRDX6
+Mammalian,F13A1
+Mammalian,PDIA3
+Mammalian,CFI
+Mammalian,PARK7
+Mammalian,PPIB
+Mammalian,C6
+Mammalian,PYGM
+Mammalian,PGAM1
+Mammalian,P4HB
+Mammalian,KLKB1
+Mammalian,NCL
+Mammalian,ENO3
+Mammalian,IDH2
+Mammalian,TKT
+Mammalian,ENO2
+Mammalian,PRDX3
+Mammalian,GSTO1
+Mammalian,CA1
+Mammalian,PHB2
+Mammalian,RPS6
+Mammalian,PDIA6
+Mammalian,NONO
+Mammalian,DDX39B
+Mammalian,FKBP1A
+Mammalian,PSMB1
+Mammalian,AK2
+Mammalian,TALDO1
+Mammalian,HADHA
+Mammalian,CYB5R3
+Mammalian,PSMA2
+Mammalian,PSMA1
+Mammalian,ALDOC
+Mammalian,PTGES3
+Mammalian,PSMA5
+Mammalian,UBE2N
+Mammalian,PGD
+Mammalian,PSMB3
+Mammalian,CST1
+Mammalian,PSMB4
+Mammalian,PGK2
+Yeast,ATP synthase subunit alpha
+Yeast,Actin
+Yeast,Alcohol dehydrogenase (Adh1)
+Yeast,Aldolase (Fba1)
+Yeast,Citrate synthase (Cit1)
+Yeast,Cytochrome c
+Yeast,Enolase (Eno1)
+Yeast,GAPDH (Tdh3)
+Yeast,Hexokinase
+Yeast,Isocitrate dehydrogenase (Idh1)
+Yeast,Malate dehydrogenase (Mdh1)
+Yeast,Phosphofructokinase (Pfk1)
+Yeast,Phosphoglycerate kinase (Pgk1)
+Yeast,Pyruvate kinase (Cdc19)
+Yeast,RNA polymerase II subunit A
+Yeast,Ribosomal protein
+Yeast,ENO2
+Yeast,PDC1
+Yeast,TPI1
+Yeast,GPM1
+Yeast,TDH2
+Yeast,AHP1
+Yeast,ILV5
+Yeast,PMA1
+Yeast,TSA1
+Yeast,CPR1
+Yeast,ALD6
+Yeast,TDH1
+Yeast,SOD1
+Yeast,PGI1
+Yeast,MET6
+Yeast,GPP1
+Yeast,PSA1
+Yeast,HXK2
+Yeast,SAH1
+Yeast,IPP1
+Yeast,ADK1
+Yeast,URA1
+Yeast,GND1
+Yeast,GLN1
+Yeast,LEU1
+Yeast,TAL1
+Yeast,SAM1
+Yeast,CYS4
+Yeast,VMA1
+Yeast,TRR1
+Yeast,KAR2
+Yeast,HOM6
+Yeast,FAS1
+Yeast,ADH2
+Yeast,GDH1
+Yeast,RNR1
+Yeast,YHB1
+Yeast,TKL1
+Yeast,SHM2
+Yeast,HSP60
+Yeast,ILV3
+Yeast,CYS3
+Yeast,ATP2
+Yeast,FAS2
+Yeast,FPR1
+Yeast,PFK2
+Yeast,KRS1
+Yeast,ADO1
+Yeast,BAT1
+Yeast,SAM2
+Yeast,ACS2
+Yeast,HOM2
+Yeast,ACO1
+Yeast,PMA2
+Yeast,UBC4
+Yeast,THR4
+Yeast,SES1
+Yeast,GRS1
+Yeast,RNR4
+Yeast,GLY1
+Yeast,ARG1
+Yeast,CDC60
+Yeast,GUS1
+Yeast,ASN1

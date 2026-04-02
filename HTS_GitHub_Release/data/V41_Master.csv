@@ -1,0 +1,438 @@
+Species,Taxonomy_ID,Node_Name,PubChem_CID,KEGG_ID,Category,Compartment,MW_Da,logP,Conc_uM,Data_Source
+Escherichia coli K-12,511145,2-Phosphoglycerate,59,C00631,Metabolite,Cytoplasm,186.06,-3.2,91.8,Park_2016_NatChemBiol_12:482_SuppTable5_Ecoli; PMID:26999781
+Escherichia coli K-12,511145,3-Phosphoglycerate,724,C00197,Metabolite,Cytoplasm,186.06,-3.2,1540.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,6-Phosphogluconate,91546,C00345,Metabolite,Cytoplasm,276.14,-4.33,3770.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,ADP,6022,C00008,Metabolite,Cytoplasm,427.2,-4.79,555.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,AMP,6083,C00020,Metabolite,Cytoplasm,347.22,-3.5,281.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,ATP,5957,C00002,Metabolite,Cytoplasm,507.18,-5.7,9630.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Acetyl-CoA,444493,C00024,Metabolite,Cytoplasm,809.6,-5.6,606.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Acetylphosphate,186,C00227,Metabolite,Cytoplasm,140.01,-1.5,1070.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Aconitate,643757,C00417,Metabolite,Cytoplasm,174.08,0.55,16.1,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Alanine,5950,C00041,Metabolite,Cytoplasm,89.09,-3.0,2550.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Arginine,6322,C00062,Metabolite,Cytoplasm,174.2,-4.2,569.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Asparagine,6267,C00152,Metabolite,Cytoplasm,132.12,-3.4,511.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Aspartate,5960,C00049,Metabolite,Cytoplasm,133.1,-2.8,4230.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,CMP,6131,C00055,Metabolite,Cytoplasm,323.2,-3.27,360.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,CTP,6176,C00063,Metabolite,Cytoplasm,483.16,-5.6,2730.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Citrate,31348,C00158,Metabolite,Cytoplasm,189.1,0.2,1960.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Citrulline,9750,C00327,Metabolite,Cytoplasm,175.19,-4.3,1350.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,CoA,87,C00010,Metabolite,Cytoplasm,767.5,-5.5,1370.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,DHAP,668,C00111,Metabolite,Cytoplasm,170.06,-2.14,374.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Erythrose-4-phosphate,122357,C00279,Metabolite,Cytoplasm,200.08,-3.0,49.0,Park_2016_NatChemBiol_12:482_SuppTable5_Ecoli; PMID:26999781
+Escherichia coli K-12,511145,FAD,643975,C00016,Metabolite,Cytoplasm,785.5,-5.0,173.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,"Fructose-1,6-bisphosphate",10267,C00354,Metabolite,Cytoplasm,340.12,-4.7,15200.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Fructose-6-phosphate,69507,C00085,Metabolite,Cytoplasm,260.14,-3.43,2520.0,Park_2016_NatChemBiol_12:482_SuppTable5_Ecoli; PMID:26999781
+Escherichia coli K-12,511145,Fumarate,5460307,C00122,Metabolite,Cytoplasm,114.06,1.0,115.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,GDP,135398619,C00035,Metabolite,Cytoplasm,443.2,-4.79,676.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,GMP,135398631,C00144,Metabolite,Cytoplasm,363.22,-3.5,23.7,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,GTP,135398633,C00044,Metabolite,Cytoplasm,523.18,-5.7,4870.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Glucose-6-phosphate,5958,C00092,Metabolite,Cytoplasm,260.14,-3.43,8750.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Glutamate,33032,C00025,Metabolite,Cytoplasm,147.13,-3.7,96000.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Glutamine,5961,C00064,Metabolite,Cytoplasm,146.14,-3.1,3810.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Glutathione,124886,C00051,Metabolite,Cytoplasm,307.33,-4.5,16600.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Glutathione-disulfide,65359,C00127,Metabolite,Cytoplasm,612.63,-5.0,2370.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Glyceraldehyde-3-phosphate,729,C00661,Metabolite,Cytoplasm,170.06,-2.14,271.0,Park_2016_NatChemBiol_12:482_SuppTable5_Ecoli; PMID:26999781
+Escherichia coli K-12,511145,Glycerol-3-phosphate,754,C00093,Metabolite,Cytoplasm,172.07,-2.6,49.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Histidine,6274,C00135,Metabolite,Cytoplasm,155.15,-3.3,67.6,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,IMP,8582,C00130,Metabolite,Cytoplasm,348.21,-2.8,272.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Indole,798,C00463,Metabolite,Cytoplasm,117.15,2.14,500.0,MW:PubChem_CID798 | logP:PubChem_XLogP3(2.14) | Conc:Han_2011_EnvironMicrobiol_13:1869; PMID:20849449 (extracellular_steady_state=intracellular_via_free_diffusion; Gaimster_2014_PLoSONE_9:e93168)
+Escherichia coli K-12,511145,Isocitrate,1198,C00311,Metabolite,Cytoplasm,192.12,-1.8,36.7,Park_2016_NatChemBiol_12:482_SuppTable5_Ecoli; PMID:26999781
+Escherichia coli K-12,511145,Isoleucine,6306,C00407,Metabolite,Cytoplasm,131.17,-1.7,152.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Leucine,6106,C00123,Metabolite,Cytoplasm,131.17,-1.5,152.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Lysine,5962,C00047,Metabolite,Cytoplasm,146.19,-3.0,405.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Malate,525,C00149,Metabolite,Cytoplasm,134.09,-1.3,1680.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Malonyl-CoA,524,C00083,Metabolite,Cytoplasm,853.6,-5.7,35.4,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Methionine,6137,C00073,Metabolite,Cytoplasm,149.21,-1.9,145.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,NAD+,5892,C00003,Metabolite,Cytoplasm,663.4,-6.0,2550.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,NADH,439153,C00004,Metabolite,Cytoplasm,665.4,-5.7,83.2,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,NADP+,5886,C00006,Metabolite,Cytoplasm,743.4,-6.5,2.08,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,NADPH,5884,C00005,Metabolite,Cytoplasm,745.4,-6.2,121.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Ornithine,6262,C00077,Metabolite,Cytoplasm,132.16,-4.4,10.1,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Oxaloacetate,970,C00036,Metabolite,Cytoplasm,132.07,-0.6,0.487,Park_2016_NatChemBiol_12:482_SuppTable5_Ecoli; PMID:26999781
+Escherichia coli K-12,511145,Phenylalanine,6140,C00079,Metabolite,Cytoplasm,165.19,-1.4,18.2,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Phosphoenolpyruvate,1005,C00074,Metabolite,Cytoplasm,168.04,-3.37,184.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Proline,145742,C00148,Metabolite,Cytoplasm,115.13,-2.5,385.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Pyruvate,107735,C00022,Metabolite,Cytoplasm,87.05,-0.6,3660.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Ribose-5-phosphate,78429,C00117,Metabolite,Cytoplasm,230.11,-3.0,787.0,Park_2016_NatChemBiol_12:482_SuppTable5_Ecoli; PMID:26999781
+Escherichia coli K-12,511145,Ribulose-5-phosphate,439170,C00199,Metabolite,Cytoplasm,230.11,-3.0,112.0,Park_2016_NatChemBiol_12:482_SuppTable5_Ecoli; PMID:26999781
+Escherichia coli K-12,511145,Sedoheptulose-7-phosphate,165007,C05382,Metabolite,Cytoplasm,290.14,-3.8,882.0,Park_2016_NatChemBiol_12:482_SuppTable5_Ecoli; PMID:26999781
+Escherichia coli K-12,511145,Serine,5951,C00065,Metabolite,Cytoplasm,105.09,-3.1,68.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Succinate,160419,C00042,Metabolite,Cytoplasm,116.07,0.7,569.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Succinyl-CoA,92133,C00091,Metabolite,Cytoplasm,867.6,-5.8,233.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Threonine,6288,C00188,Metabolite,Cytoplasm,119.12,-2.9,179.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Tryptophan,6305,C00078,Metabolite,Cytoplasm,204.23,-1.1,12.1,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Tyrosine,6057,C00082,Metabolite,Cytoplasm,181.19,-2.3,28.9,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,UDP,6031,C00015,Metabolite,Cytoplasm,404.16,-4.89,1790.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,UDP-glucose,8629,C00029,Metabolite,Cytoplasm,566.3,-6.8,2500.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,UTP,6133,C00075,Metabolite,Cytoplasm,484.14,-5.8,8290.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,Valine,6287,C00183,Metabolite,Cytoplasm,117.15,-2.3,4020.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,alpha-Ketoglutarate,164533,C00026,Metabolite,Cytoplasm,144.08,0.4,443.0,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,c-di-GMP,135440063,C16463,Metabolite,Cytoplasm,690.36,-6.8,1.0,MW:PubChem_CID135440063 | logP:structural_estimate_cyclic_dinucleotide | Conc:Spangler_2010_JMicrobiolMethods_81:232; PMID:20381542
+Escherichia coli K-12,511145,cAMP,6076,C00575,Metabolite,Cytoplasm,329.21,-2.6,35.2,Bennett_2009_NatChemBiol_5:593_SuppTable3_Glucose; PMID:19561621
+Escherichia coli K-12,511145,cGMP,24316,C00942,Metabolite,Cytoplasm,345.21,-1.89,5.0,MW:PubChem_CID24316 | logP:PubChem_XLogP3(-1.89) | Conc:Gomelsky_2011_MolMicrobiol_81:1137; PMID:21564337 (estimated_steady_state)
+Escherichia coli K-12,511145,ppGpp,135398596,C01228,Metabolite,Cytoplasm,603.35,-5.8,24.0,MW:ChEBI_CHEBI:17544 | logP:structural_analogy_GTP(-5.7)+pyrophosphate | Conc:Varik_2017_SciRep_7:11878; PMID:28928448 (exponential_phase_basal)
+Homo sapiens,9606,2-Phosphoglycerate,59,C00631,Metabolite,Cytoplasm,186.06,-3.2,9.49,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,3-Phosphoglycerate,724,C00197,Metabolite,Cytoplasm,186.06,-3.2,375.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,6-Phosphogluconate,91546,C00345,Metabolite,Cytoplasm,276.14,-4.33,16.5,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,ADP,6022,C00008,Metabolite,Cytoplasm,427.2,-4.79,569.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,AMP,6083,C00020,Metabolite,Cytoplasm,347.22,-3.5,42.3,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,ATP,5957,C00002,Metabolite,Cytoplasm,507.18,-5.7,4670.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Acetyl-CoA,444493,C00024,Metabolite,Mitochondria,809.6,-5.6,28.8,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Aconitate,643757,C00417,Metabolite,Mitochondria,174.08,0.55,11.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Alanine,5950,C00041,Metabolite,Cytoplasm,89.09,-3.0,6980.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Arginine,6322,C00062,Metabolite,Cytoplasm,174.2,-4.2,255.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Asparagine,6267,C00152,Metabolite,Cytoplasm,132.12,-3.4,215.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Aspartate,5960,C00049,Metabolite,Cytoplasm,133.1,-2.8,14900.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,CMP,6131,C00055,Metabolite,Cytoplasm,323.2,-3.27,11.8,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,CTP,6176,C00063,Metabolite,Cytoplasm,483.16,-5.6,897.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Citrate,31348,C00158,Metabolite,Mitochondria,189.1,0.2,584.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,DHAP,668,C00111,Metabolite,Cytoplasm,170.06,-2.14,1630.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Erythrose-4-phosphate,122357,C00279,Metabolite,Cytoplasm,200.08,-3.0,10.3,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,FAD,643975,C00016,Metabolite,Mitochondria,785.5,-5.0,5.6,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,"Fructose-1,6-bisphosphate",10267,C00354,Metabolite,Cytoplasm,340.12,-4.7,1520.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Fructose-6-phosphate,69507,C00085,Metabolite,Cytoplasm,260.14,-3.43,96.9,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Fumarate,5460307,C00122,Metabolite,Mitochondria,114.06,1.0,387.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,GDP,135398619,C00035,Metabolite,Cytoplasm,443.2,-4.79,30.2,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,GMP,135398631,C00144,Metabolite,Cytoplasm,363.22,-3.5,18.1,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,GTP,135398633,C00044,Metabolite,Cytoplasm,523.18,-5.7,677.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Glucose-6-phosphate,5958,C00092,Metabolite,Cytoplasm,260.14,-3.43,675.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Glutamate,33032,C00025,Metabolite,Cytoplasm,147.13,-3.7,63800.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Glutamine,5961,C00064,Metabolite,Cytoplasm,146.14,-3.1,17200.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Glutathione,124886,C00051,Metabolite,Cytoplasm,307.33,-4.5,3090.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Glutathione-disulfide,65359,C00127,Metabolite,Cytoplasm,612.63,-5.0,18.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Glyceraldehyde-3-phosphate,729,C00661,Metabolite,Cytoplasm,170.06,-2.14,141.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Glycine,750,C00037,Metabolite,Cytoplasm,75.07,-3.2,3710.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Histidine,6274,C00135,Metabolite,Cytoplasm,155.15,-3.3,410.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,IMP,8582,C00130,Metabolite,Cytoplasm,348.21,-2.8,12.3,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Isocitrate,1198,C00311,Metabolite,Mitochondria,192.12,-1.8,32.1,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781 [m] compartment value
+Homo sapiens,9606,Isoleucine,6306,C00407,Metabolite,Cytoplasm,131.17,-1.7,1760.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Leucine,6106,C00123,Metabolite,Cytoplasm,131.17,-1.5,1760.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Lysine,5962,C00047,Metabolite,Cytoplasm,146.19,-3.0,506.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Malate,525,C00149,Metabolite,Mitochondria,134.09,-1.3,1390.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Malonyl-CoA,524,C00083,Metabolite,Cytoplasm,853.6,-5.7,4.95,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Methionine,6137,C00073,Metabolite,Cytoplasm,149.21,-1.9,639.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,NAD+,5892,C00003,Metabolite,Cytoplasm,663.4,-6.0,502.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,NADH,439153,C00004,Metabolite,Cytoplasm,665.4,-5.7,75.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,NADP+,5886,C00006,Metabolite,Cytoplasm,743.4,-6.5,28.4,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,NADPH,5884,C00005,Metabolite,Cytoplasm,745.4,-6.2,65.4,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Phenylalanine,6140,C00079,Metabolite,Cytoplasm,165.19,-1.4,840.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Phosphoenolpyruvate,1005,C00074,Metabolite,Cytoplasm,168.04,-3.37,11.6,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Proline,145742,C00148,Metabolite,Cytoplasm,115.13,-2.5,1230.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Pyruvate,107735,C00022,Metabolite,Cytoplasm,87.05,-0.6,5880.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Ribose-5-phosphate,78429,C00117,Metabolite,Cytoplasm,230.11,-3.0,78.3,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Ribulose-5-phosphate,439170,C00199,Metabolite,Cytoplasm,230.11,-3.0,5.27,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Sedoheptulose-7-phosphate,165007,C05382,Metabolite,Cytoplasm,290.14,-3.8,15.1,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Serine,5951,C00065,Metabolite,Cytoplasm,105.09,-3.1,4860.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Succinate,160419,C00042,Metabolite,Mitochondria,116.07,0.7,352.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Threonine,6288,C00188,Metabolite,Cytoplasm,119.12,-2.9,6690.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Tryptophan,6305,C00078,Metabolite,Cytoplasm,204.23,-1.1,180.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Tyrosine,6057,C00082,Metabolite,Cytoplasm,181.19,-2.3,938.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,UDP,6031,C00015,Metabolite,Cytoplasm,404.16,-4.89,133.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,UDP-glucose,8629,C00029,Metabolite,Cytoplasm,566.3,-6.8,1530.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,UMP,6030,C00105,Metabolite,Cytoplasm,324.18,-3.6,14.5,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,UTP,6133,C00075,Metabolite,Cytoplasm,484.14,-5.8,1760.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,Valine,6287,C00183,Metabolite,Cytoplasm,117.15,-2.3,1510.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,alpha-Ketoglutarate,164533,C00026,Metabolite,Mitochondria,144.08,0.4,797.0,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Homo sapiens,9606,cAMP,6076,C00575,Metabolite,Cytoplasm,329.21,-2.6,0.13,Park_2016_NatChemBiol_12:482_SuppTable5_iBMK; PMID:26999781
+Saccharomyces cerevisiae,4932,2-Phosphoglycerate,59,C00631,Metabolite,Cytoplasm,186.06,-3.2,23.8,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,3-Phosphoglycerate,724,C00197,Metabolite,Cytoplasm,186.06,-3.2,578.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,6-Phosphogluconate,91546,C00345,Metabolite,Cytoplasm,276.14,-4.33,243.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,ADP,6022,C00008,Metabolite,Cytoplasm,427.2,-4.79,488.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,AMP,6083,C00020,Metabolite,Cytoplasm,347.22,-3.5,81.2,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,ATP,5957,C00002,Metabolite,Cytoplasm,507.18,-5.7,1930.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Acetyl-CoA,444493,C00024,Metabolite,Mitochondria,809.6,-5.6,43.6,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Alanine,5950,C00041,Metabolite,Cytoplasm,89.09,-3.0,22300.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Arginine,6322,C00062,Metabolite,Cytoplasm,174.2,-4.2,21800.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Asparagine,6267,C00152,Metabolite,Cytoplasm,132.12,-3.4,5690.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Aspartate,5960,C00049,Metabolite,Cytoplasm,133.1,-2.8,6290.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,CMP,6131,C00055,Metabolite,Cytoplasm,323.2,-3.27,5.18,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,CTP,6176,C00063,Metabolite,Cytoplasm,483.16,-5.6,249.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Citrate,31348,C00158,Metabolite,Mitochondria,189.1,0.2,1490.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Citrulline,9750,C00327,Metabolite,Cytoplasm,175.19,-4.3,27000.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,DHAP,668,C00111,Metabolite,Cytoplasm,170.06,-2.14,807.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Erythrose-4-phosphate,122357,C00279,Metabolite,Cytoplasm,200.08,-3.0,14.6,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,FAD,643975,C00016,Metabolite,Mitochondria,785.5,-5.0,35.3,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,"Fructose-1,6-bisphosphate",10267,C00354,Metabolite,Cytoplasm,340.12,-4.7,4000.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Fructose-6-phosphate,69507,C00085,Metabolite,Cytoplasm,260.14,-3.43,2370.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Fumarate,5460307,C00122,Metabolite,Mitochondria,114.06,1.0,121.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,GDP,135398619,C00035,Metabolite,Cytoplasm,443.2,-4.79,42.1,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,GMP,135398631,C00144,Metabolite,Cytoplasm,363.22,-3.5,10.2,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,GTP,135398633,C00044,Metabolite,Cytoplasm,523.18,-5.7,247.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Glucose-6-phosphate,5958,C00092,Metabolite,Cytoplasm,260.14,-3.43,5310.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Glutamate,33032,C00025,Metabolite,Cytoplasm,147.13,-3.7,39100.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Glutamine,5961,C00064,Metabolite,Cytoplasm,146.14,-3.1,35500.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Glutathione,124886,C00051,Metabolite,Cytoplasm,307.33,-4.5,4300.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Glutathione-disulfide,65359,C00127,Metabolite,Cytoplasm,612.63,-5.0,97.3,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Glyceraldehyde-3-phosphate,729,C00661,Metabolite,Cytoplasm,170.06,-2.14,118.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Glycerol-3-phosphate,754,C00093,Metabolite,Cytoplasm,172.07,-2.6,281.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,IMP,8582,C00130,Metabolite,Cytoplasm,348.21,-2.8,38.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Isocitrate,1198,C00311,Metabolite,Mitochondria,192.12,-1.8,5.79,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Isoleucine,6306,C00407,Metabolite,Cytoplasm,131.17,-1.7,353.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Leucine,6106,C00123,Metabolite,Cytoplasm,131.17,-1.5,353.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Lysine,5962,C00047,Metabolite,Cytoplasm,146.19,-3.0,5160.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Malate,525,C00149,Metabolite,Mitochondria,134.09,-1.3,925.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Methionine,6137,C00073,Metabolite,Cytoplasm,149.21,-1.9,191.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,NAD+,5892,C00003,Metabolite,Cytoplasm,663.4,-6.0,2440.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,NADH,439153,C00004,Metabolite,Cytoplasm,665.4,-5.7,107.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,NADP+,5886,C00006,Metabolite,Cytoplasm,743.4,-6.5,183.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,NADPH,5884,C00005,Metabolite,Cytoplasm,745.4,-6.2,221.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Ornithine,6262,C00077,Metabolite,Cytoplasm,132.16,-4.4,4490.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Phenylalanine,6140,C00079,Metabolite,Cytoplasm,165.19,-1.4,273.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Phosphoenolpyruvate,1005,C00074,Metabolite,Cytoplasm,168.04,-3.37,29.1,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Proline,145742,C00148,Metabolite,Cytoplasm,115.13,-2.5,1360.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Pyruvate,107735,C00022,Metabolite,Cytoplasm,87.05,-0.6,9400.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Ribose-5-phosphate,78429,C00117,Metabolite,Cytoplasm,230.11,-3.0,152.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Ribulose-5-phosphate,439170,C00199,Metabolite,Cytoplasm,230.11,-3.0,122.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Sedoheptulose-7-phosphate,165007,C05382,Metabolite,Cytoplasm,290.14,-3.8,361.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Serine,5951,C00065,Metabolite,Cytoplasm,105.09,-3.1,3870.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Succinate,160419,C00042,Metabolite,Mitochondria,116.07,0.7,635.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Threonine,6288,C00188,Metabolite,Cytoplasm,119.12,-2.9,6690.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Tryptophan,6305,C00078,Metabolite,Cytoplasm,204.23,-1.1,55.5,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Tyrosine,6057,C00082,Metabolite,Cytoplasm,181.19,-2.3,248.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,UDP,6031,C00015,Metabolite,Cytoplasm,404.16,-4.89,36.8,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,UDP-glucose,8629,C00029,Metabolite,Cytoplasm,566.3,-6.8,268.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,UMP,6030,C00105,Metabolite,Cytoplasm,324.18,-3.6,14.5,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,UTP,6133,C00075,Metabolite,Cytoplasm,484.14,-5.8,494.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,Valine,6287,C00183,Metabolite,Cytoplasm,117.15,-2.3,2500.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,alpha-Ketoglutarate,164533,C00026,Metabolite,Mitochondria,144.08,0.4,848.0,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Saccharomyces cerevisiae,4932,cAMP,6076,C00575,Metabolite,Cytoplasm,329.21,-2.6,0.4,Park_2016_NatChemBiol_12:482_SuppTable5_Yeast; PMID:26999781
+Escherichia coli K-12,511145,30S ribosomal protein S1 (RpsA),P0AG67,eco:b0911,Protein,Cytoplasm,61158.0,-0.18,30.0,MW:UniProt_P0AG67 | GRAVY:ProtParam(-0.180) | Conc:Bremer_Dennis_2008 ~45000_ribosomes/cell; PMID:26443740
+Escherichia coli K-12,511145,ATP synthase subunit alpha (AtpA),P0ABB0,eco:b3734,Protein,Cytoplasmic membrane,55222.0,-0.032,1.2,"MW:UniProt_P0ABB0 | GRAVY:ProtParam(-0.032) | Conc:Li_2014_Cell_157:624; PMID:24766808 (~200copies/cell,V=1fL)"
+Escherichia coli K-12,83333,Citrate synthase (GltA),,eco:b0720,Protein,Cytoplasm,48015.0,nan,2.0,PaxDb/UniProt
+Escherichia coli K-12,511145,Cytochrome bo3 ubiquinol oxidase subunit I (CyoB),P0ABI8,eco:b0431,Protein,Cytoplasmic membrane,73941.0,0.28,0.3,MW:UniProt_P0ABI8 | GRAVY:ProtParam(0.280) | Conc:membrane_protein_moderate_abundance; PMID:24766808
+Escherichia coli K-12,83333,Enolase (Eno),,eco:b2779,Protein,Cytoplasm,45585.0,nan,15.0,PaxDb/UniProt
+Escherichia coli K-12,83333,Fructose-bisphosphate aldolase (FbaA),,eco:b2925,Protein,Cytoplasm,39147.0,nan,12.0,PaxDb/UniProt
+Escherichia coli K-12,83333,GAPDH (GapA),,eco:b1779,Protein,Cytoplasm,35532.0,nan,20.0,PaxDb/UniProt
+Escherichia coli K-12,511145,Glucokinase (Glk),P0A6V8,eco:b2388,Protein,Cytoplasm,34862.0,-0.303,0.1,MW:UniProt_P0A6V8 | GRAVY:ProtParam(-0.303) | Conc:EcoCyc_low-abundance_enzyme; PMID:27899578
+Escherichia coli K-12,83333,Isocitrate dehydrogenase (Icd),,eco:b1136,Protein,Cytoplasm,45757.0,nan,3.0,PaxDb/UniProt
+Escherichia coli K-12,83333,Lactate dehydrogenase (LdhA),,eco:b1380,Protein,Cytoplasm,36535.0,nan,1.5,PaxDb/UniProt
+Escherichia coli K-12,83333,Malate dehydrogenase (Mdh),,eco:b3236,Protein,Cytoplasm,32337.0,nan,4.0,PaxDb/UniProt
+Escherichia coli K-12,511145,MreB (actin homologue),P0A9X4,eco:b3251,Protein,Cytoplasmic membrane,36949.0,-0.067,5.0,MW:UniProt_P0A9X4 | GRAVY:ProtParam(-0.067) | Conc:~5000-8000copies/cell estimate; PMID:19465773
+Escherichia coli K-12,83333,Phosphofructokinase (PfkA),,eco:b3916,Protein,Cytoplasm,34844.0,nan,8.0,PaxDb/UniProt
+Escherichia coli K-12,83333,Phosphoglycerate kinase (Pgk),,eco:b2926,Protein,Cytoplasm,41118.0,nan,8.0,PaxDb/UniProt
+Escherichia coli K-12,83333,Pyruvate kinase I (PykF),,eco:b1676,Protein,Cytoplasm,50729.0,nan,5.0,PaxDb/UniProt
+Escherichia coli K-12,511145,RNA polymerase beta' (RpoC),P0A8T7,eco:b3988,Protein,Cytoplasm,155613.0,-0.437,0.5,MW:UniProt_P0A8T7 | GRAVY:ProtParam(-0.437) | Conc:Bremer_Dennis_2008_EcoSalPlus; PMID:26443740 (~700RNAP/cell)
+Escherichia coli K-12,83333,Succinate dehydrogenase (SdhA),,eco:b0723,Protein,Cytoplasmic membrane,64420.0,nan,0.8,PaxDb/UniProt
+Homo sapiens,9606,ATP synthase subunit alpha,P25705,hsa:498,Protein,Mitochondria,59751.0,-0.067,0.11,MW:UniProt_P25705 | GRAVY:ProtParam(-0.067) | Conc:PaxDb_HeLa_2015; PMID:25656970
+Homo sapiens,9606,Actin,P60709,hsa:60,Protein,Cytoplasm,41737.0,-0.2,5.5,MW:UniProt_P60709(beta-actin) | GRAVY:ProtParam(-0.200) | Conc:PaxDb_HeLa_2015; PMID:25656970
+Homo sapiens,9606,Aldolase (ALDOA),,hsa:226,Protein,Cytoplasm,39420.0,nan,0.15,PaxDb/UniProt
+Homo sapiens,9606,Citrate synthase (CS),,hsa:1431,Protein,Mitochondria,51713.0,nan,0.04,PaxDb/UniProt
+Homo sapiens,9606,Cytochrome c,P99999,hsa:54205,Protein,Mitochondria,11749.0,-0.706,0.055,MW:UniProt_P99999 | GRAVY:ProtParam(-0.706) | Conc:PaxDb_HeLa_2015; PMID:25656970
+Homo sapiens,9606,Enolase (ENO1),,hsa:2023,Protein,Cytoplasm,47169.0,nan,0.3,PaxDb/UniProt
+Homo sapiens,9606,GAPDH,,hsa:2597,Protein,Cytoplasm,36053.0,nan,0.8,PaxDb/UniProt
+Homo sapiens,9606,Hexokinase,P19367,hsa:3098,Protein,Cytoplasm,102485.0,-0.21,0.028,MW:UniProt_P19367 | GRAVY:ProtParam(-0.210) | Conc:PaxDb_HeLa_2015; PMID:25656970
+Homo sapiens,9606,Isocitrate dehydrogenase (IDH1),,hsa:3417,Protein,Cytoplasm,46659.0,nan,0.06,PaxDb/UniProt
+Homo sapiens,9606,Lactate dehydrogenase (LDHA),,hsa:3939,Protein,Cytoplasm,36689.0,nan,0.5,PaxDb/UniProt
+Homo sapiens,9606,Malate dehydrogenase (MDH1),,hsa:4190,Protein,Cytoplasm,36426.0,nan,0.1,PaxDb/UniProt
+Homo sapiens,9606,Phosphofructokinase (PFKM),,hsa:5213,Protein,Cytoplasm,85183.0,nan,0.05,PaxDb/UniProt
+Homo sapiens,9606,Phosphoglycerate kinase (PGK1),,hsa:5230,Protein,Cytoplasm,44615.0,nan,0.15,PaxDb/UniProt
+Homo sapiens,9606,Pyruvate kinase (PKM),,hsa:5315,Protein,Cytoplasm,57937.0,nan,0.2,PaxDb/UniProt
+Homo sapiens,9606,RNA polymerase II subunit A,P24928,hsa:5430,Protein,Nucleus,217262.0,-0.534,0.006,MW:UniProt_P24928 | GRAVY:ProtParam(-0.534) | Conc:PaxDb_HeLa_2015; PMID:25656970
+Homo sapiens,9606,Ribosomal protein,P62987,hsa:7311,Protein,Cytoplasm,14728.0,-0.703,0.28,MW:UniProt_P62987 | GRAVY:ProtParam(-0.703) | Conc:PaxDb_HeLa_2015; PMID:25656970
+Saccharomyces cerevisiae,4932,ATP synthase subunit alpha,P07251,sce:YBL099W,Protein,Mitochondria,58625.0,-0.067,0.8,MW:UniProt_P07251 | GRAVY:ProtParam(-0.067) | Conc:Ghaemmaghami_2003_Nature_425:737; PMID:14562106
+Saccharomyces cerevisiae,4932,Actin,P60010,sce:YFL031W,Protein,Cytoplasm,41689.0,-0.2,3.0,MW:UniProt_P60010 | GRAVY:ProtParam(-0.200) | Conc:Ghaemmaghami_2003_Nature_425:737; PMID:14562106
+Saccharomyces cerevisiae,559292,Alcohol dehydrogenase (Adh1),,sce:YOL086C,Protein,Cytoplasm,36849.0,nan,20.0,PaxDb/UniProt
+Saccharomyces cerevisiae,559292,Aldolase (Fba1),,sce:YKL060C,Protein,Cytoplasm,39620.0,nan,8.0,PaxDb/UniProt
+Saccharomyces cerevisiae,559292,Citrate synthase (Cit1),,sce:YNR001C,Protein,Mitochondria,49176.0,nan,0.5,PaxDb/UniProt
+Saccharomyces cerevisiae,4932,Cytochrome c,P00044,sce:YJR048W,Protein,Mitochondria,12532.0,-0.706,0.5,MW:UniProt_P00044 | GRAVY:ProtParam(-0.706) | Conc:Ghaemmaghami_2003_Nature_425:737; PMID:14562106
+Saccharomyces cerevisiae,559292,Enolase (Eno1),,sce:YGR254W,Protein,Cytoplasm,46816.0,nan,10.0,PaxDb/UniProt
+Saccharomyces cerevisiae,559292,GAPDH (Tdh3),,sce:YGR192C,Protein,Cytoplasm,35746.0,nan,15.0,PaxDb/UniProt
+Saccharomyces cerevisiae,4932,Hexokinase,P04807,sce:YFR053C,Protein,Cytoplasm,53738.0,-0.21,2.5,MW:UniProt_P04807 | GRAVY:ProtParam(-0.210) | Conc:Ghaemmaghami_2003_Nature_425:737; PMID:14562106
+Saccharomyces cerevisiae,559292,Isocitrate dehydrogenase (Idh1),,sce:YNL037C,Protein,Mitochondria,38084.0,nan,0.3,PaxDb/UniProt
+Saccharomyces cerevisiae,559292,Malate dehydrogenase (Mdh1),,sce:YKL085W,Protein,Mitochondria,33512.0,nan,0.8,PaxDb/UniProt
+Saccharomyces cerevisiae,559292,Phosphofructokinase (Pfk1),,sce:YGR240C,Protein,Cytoplasm,107903.0,nan,1.5,PaxDb/UniProt
+Saccharomyces cerevisiae,559292,Phosphoglycerate kinase (Pgk1),,sce:YCR012W,Protein,Cytoplasm,44738.0,nan,12.0,PaxDb/UniProt
+Saccharomyces cerevisiae,559292,Pyruvate kinase (Cdc19),,sce:YAL038W,Protein,Cytoplasm,54539.0,nan,5.0,PaxDb/UniProt
+Saccharomyces cerevisiae,4932,RNA polymerase II subunit A,P27999,sce:YDL140C,Protein,Nucleus,191550.0,-0.534,0.02,MW:UniProt_P27999 | GRAVY:ProtParam(-0.534) | Conc:Ghaemmaghami_2003_Nature_425:737; PMID:14562106
+Saccharomyces cerevisiae,4932,Ribosomal protein,P36516,sce:YPL131W,Protein,Cytoplasm,44469.0,-0.703,1.0,MW:UniProt_P36516 | GRAVY:ProtParam(-0.703) | Conc:Ghaemmaghami_2003_Nature_425:737; PMID:14562106
+Escherichia coli K-12,511145,groL (b4143),,eco:b4143,Protein,Cytoplasm,60280,,26844.9,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,aceA (b4015),,eco:b4015,Protein,Cytoplasm,47740,,25149,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,glyA (b2551),,eco:b2551,Protein,Cytoplasm,45870,,24534.9,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,gpmA (b0755),,eco:b0755,Protein,Cytoplasm,27500,,39232.2,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,ridA (b4243),,eco:b4243,Protein,Cytoplasm,14080,,74822.8,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,ahpC (b0605),,eco:b0605,Protein,Cytoplasm,20570,,50141.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,sodA (b3908),,eco:b3908,Protein,Cytoplasm,22660,,43131.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,gatY (b2096),,eco:b2096,Protein,Cytoplasm,31240,,30969.8,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,atpD (b3732),,eco:b3732,Protein,Cytoplasm,50600,,18572.4,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,pflB (b0903),,eco:b0903,Protein,Cytoplasm,83600,,10007.2,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,gatB (b2093),,eco:b2093,Protein,Cytoplasm,10340,,79840.9,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,tpx (b1324),,eco:b1324,Protein,Cytoplasm,18480,,40629.1,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,cysK (b2414),,eco:b2414,Protein,Cytoplasm,35530,,20477.3,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,tnaA (b3708),,eco:b3708,Protein,Cytoplasm,51810,,13661.8,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,adk (b0474),,eco:b0474,Protein,Cytoplasm,23540,,27523.2,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,ppa (b4226),,eco:b4226,Protein,Cytoplasm,19360,,32895.1,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,metE (b3829),,eco:b3829,Protein,Cytoplasm,82830,,7572.32,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,pyrB (b4245),,eco:b4245,Protein,Cytoplasm,34210,,17784.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,talB (b0008),,eco:b0008,Protein,Cytoplasm,34870,,16949.4,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,aceE (b0114),,eco:b0114,Protein,Cytoplasm,97570,,6038.18,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,tpiA (b3919),,eco:b3919,Protein,Cytoplasm,28050,,20442.1,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,purA (b4177),,eco:b4177,Protein,Cytoplasm,47520,,12061.6,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,ilvC (b3774),,eco:b3774,Protein,Cytoplasm,54010,,10551.3,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,aldA (b1415),,eco:b1415,Protein,Cytoplasm,52690,,10467.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,adhE (b1241),,eco:b1241,Protein,Cytoplasm,98010,,5569.89,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,lpd (b0116),,eco:b0116,Protein,Cytoplasm,52140,,10280.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,sucC (b0728),,eco:b0728,Protein,Cytoplasm,42680,,11656.4,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,ndk (b2518),,eco:b2518,Protein,Cytoplasm,15730,,31403.1,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,rpoA (b3295),,eco:b3295,Protein,Cytoplasm,36190,,13058.4,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,fabB (b2323),,eco:b2323,Protein,Cytoplasm,44660,,10518.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,sucD (b0729),,eco:b0729,Protein,Cytoplasm,31790,,14570.1,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,gnd (b2029),,eco:b2029,Protein,Cytoplasm,51480,,8874.13,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,udp (b3831),,eco:b3831,Protein,Cytoplasm,27830,,15883.4,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,aceF (b0115),,eco:b0115,Protein,Cytoplasm,69300,,6320.92,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,osmC (b1482),,eco:b1482,Protein,Cytoplasm,15730,,27533.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,fabI (b1288),,eco:b1288,Protein,Cytoplasm,28820,,14962.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,wrbA (b1004),,eco:b1004,Protein,Cytoplasm,21780,,19561.8,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,metK (b2942),,eco:b2942,Protein,Cytoplasm,42240,,10081,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,serA (b2913),,eco:b2913,Protein,Cytoplasm,45100,,9363.53,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,aspA (b4139),,eco:b4139,Protein,Cytoplasm,52580,,7906.33,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,rpoZ (b3649),,eco:b3649,Protein,Cytoplasm,10010,,41389.1,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,upp (b2498),,eco:b2498,Protein,Cytoplasm,22880,,18066.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,aspC (b0928),,eco:b0928,Protein,Cytoplasm,43560,,9451.79,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,aceB (b4014),,eco:b4014,Protein,Cytoplasm,58630,,6982.26,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,acnB (b0118),,eco:b0118,Protein,Cytoplasm,95150,,4230.74,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,dapD (b0166),,eco:b0166,Protein,Cytoplasm,30140,,13036.5,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,gatA (b2094),,eco:b2094,Protein,Cytoplasm,16500,,23813.3,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,rpoB (b3987),,eco:b3987,Protein,Cytoplasm,147620,,2642.6,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,ppiB (b0525),,eco:b0525,Protein,Cytoplasm,18040,,21480.9,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,asd (b3433),,eco:b3433,Protein,Cytoplasm,40370,,9471.02,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,gadA (b3517),,eco:b3517,Protein,Cytoplasm,51260,,7413.09,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,ribE (b0415),,eco:b0415,Protein,Cytoplasm,17160,,22103.1,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,serC (b0907),,eco:b0907,Protein,Cytoplasm,39820,,8799.22,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,purC (b2476),,eco:b2476,Protein,Cytoplasm,26070,,13422.1,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,pnp (b3164),,eco:b3164,Protein,Cytoplasm,78210,,4317.8,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,ptsI (b2416),,eco:b2416,Protein,Cytoplasm,63250,,5257.31,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,guaB (b2508),,eco:b2508,Protein,Cytoplasm,53680,,6181.45,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,sucB (b0727),,eco:b0727,Protein,Cytoplasm,44550,,7421.89,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,glnA (b3870),,eco:b3870,Protein,Cytoplasm,51590,,6409.09,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,rpiA (b2914),,eco:b2914,Protein,Cytoplasm,24090,,13657.1,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,sodB (b1656),,eco:b1656,Protein,Cytoplasm,21230,,15386.2,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,fabA (b0954),,eco:b0954,Protein,Cytoplasm,18920,,16693.4,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Escherichia coli K-12,511145,luxS (b2687),,eco:b2687,Protein,Cytoplasm,18810,,16466.2,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,ENO2,,sce:YHR174W,Protein,Cytoplasm,48070,,50245.5,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,PDC1,,sce:YLR044C,Protein,Cytoplasm,61930,,31736.6,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,TPI1,,sce:YDR050C,Protein,Cytoplasm,27280,,47007,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,GPM1,,sce:YKL152C,Protein,Cytoplasm,27170,,43625.3,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,TDH2,,sce:YJR009C,Protein,Cytoplasm,36520,,27917.6,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,AHP1,,sce:YLR109W,Protein,Cytoplasm,19360,,50787.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,ILV5,,sce:YLR355C,Protein,Cytoplasm,43450,,17188.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,PMA1,,sce:YGL008C,Protein,Cytoplasm,100980,,6781.05,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,TSA1,,sce:YML028W,Protein,Cytoplasm,21560,,30007,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,CPR1,,sce:YDR155C,Protein,Cytoplasm,17820,,31136.4,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,ALD6,,sce:YPL061W,Protein,Cytoplasm,55000,,10003.6,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,TDH1,,sce:YJL052W,Protein,Cytoplasm,36520,,13394,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,SOD1,,sce:YJR104C,Protein,Cytoplasm,16940,,27671.2,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,PGI1,,sce:YBR196C,Protein,Cytoplasm,60940,,7623.07,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,MET6,,sce:YER091C,Protein,Cytoplasm,84370,,5486.55,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,GPP1,,sce:YIL053W,Protein,Cytoplasm,27500,,16003.6,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,PSA1,,sce:YDL055C,Protein,Cytoplasm,39710,,9636.11,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,HXK2,,sce:YGL253W,Protein,Cytoplasm,53460,,6902.36,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,SAH1,,sce:YER043C,Protein,Cytoplasm,49390,,7352.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,IPP1,,sce:YBR011C,Protein,Cytoplasm,31570,,10205.9,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,ADK1,,sce:YDR226W,Protein,Cytoplasm,24420,,12856.3,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,URA1,,sce:YKL216W,Protein,Cytoplasm,34540,,7869.14,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,GND1,,sce:YHR183W,Protein,Cytoplasm,53790,,4919.13,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,GLN1,,sce:YPR035W,Protein,Cytoplasm,40700,,5797.3,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,LEU1,,sce:YGL009C,Protein,Cytoplasm,85690,,2673.01,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,TAL1,,sce:YLR354C,Protein,Cytoplasm,36850,,6130.26,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,SAM1,,sce:YLR180W,Protein,Cytoplasm,42020,,5229.65,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,CYS4,,sce:YGR155W,Protein,Cytoplasm,55770,,3918.77,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,VMA1,,sce:YDL185W,Protein,Cytoplasm,117810,,1846.19,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,TRR1,,sce:YDR353W,Protein,Cytoplasm,35090,,6129.95,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,KAR2,,sce:YJL034W,Protein,Cytoplasm,75020,,2859.24,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,HOM6,,sce:YJR139C,Protein,Cytoplasm,39490,,5154.47,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,FAS1,,sce:YKL182W,Protein,Cytoplasm,225610,,890.918,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,ADH2,,sce:YMR303C,Protein,Cytoplasm,38280,,5231.19,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,GDH1,,sce:YOR375C,Protein,Cytoplasm,49940,,3976.77,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,RNR1,,sce:YER070W,Protein,Cytoplasm,97680,,2031.63,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,YHB1,,sce:YGR234W,Protein,Cytoplasm,43890,,4460.01,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,TKL1,,sce:YPR074C,Protein,Cytoplasm,74800,,2518.72,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,SHM2,,sce:YLR058C,Protein,Cytoplasm,51590,,3631.52,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,HSP60,,sce:YLR259C,Protein,Cytoplasm,62920,,2934.68,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,ILV3,,sce:YJR016C,Protein,Cytoplasm,64350,,2846.15,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,CYS3,,sce:YAL012W,Protein,Cytoplasm,43340,,4153.21,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,ATP2,,sce:YJR121W,Protein,Cytoplasm,56210,,3183.6,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,FAS2,,sce:YPL231W,Protein,Cytoplasm,207570,,831.045,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,FPR1,,sce:YNL135C,Protein,Cytoplasm,12540,,13720.1,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,PFK2,,sce:YMR205C,Protein,Cytoplasm,105490,,1603.94,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,KRS1,,sce:YDR037W,Protein,Cytoplasm,65010,,2533.46,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,ADO1,,sce:YJR105W,Protein,Cytoplasm,37400,,4287.43,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,BAT1,,sce:YHR208W,Protein,Cytoplasm,43230,,3684.94,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,SAM2,,sce:YDR502C,Protein,Cytoplasm,42240,,3753.55,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,ACS2,,sce:YLR153C,Protein,Cytoplasm,75130,,2098.36,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,HOM2,,sce:YDR158W,Protein,Cytoplasm,40150,,3907.85,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,ACO1,,sce:YLR304C,Protein,Cytoplasm,85580,,1810.59,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,PMA2,,sce:YPL036W,Protein,Cytoplasm,104170,,1437.07,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,UBC4,,sce:YBR082C,Protein,Cytoplasm,16280,,9047.91,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,THR4,,sce:YCR053W,Protein,Cytoplasm,56540,,2584.01,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,SES1,,sce:YDR023W,Protein,Cytoplasm,50820,,2871.9,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,GRS1,,sce:YBR121C,Protein,Cytoplasm,73370,,1989.23,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,RNR4,,sce:YGR180C,Protein,Cytoplasm,37950,,3774.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,GLY1,,sce:YEL046C,Protein,Cytoplasm,42570,,3308.67,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,ARG1,,sce:YOL058W,Protein,Cytoplasm,46200,,3048.7,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,CDC60,,sce:YPL160W,Protein,Cytoplasm,119900,,1159.72,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,GUS1,,sce:YGL245W,Protein,Cytoplasm,77880,,1758.47,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Saccharomyces cerevisiae,559292,ASN1,,sce:YPR145W,Protein,Cytoplasm,62920,,2164.65,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,APOA1,,hsa:128240,Protein,Cytoplasm,31680,,65413.5,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,TTR,,hsa:10352,Protein,Cytoplasm,39600,,48222.2,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,HPX,,hsa:2882,Protein,Cytoplasm,20570,,75405.9,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PPIA,,hsa:653505,Protein,Cytoplasm,18040,,19567.6,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,GSN,,hsa:128,Protein,Cytoplasm,41140,,7899.85,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,FGG,,hsa:55277,Protein,Cytoplasm,60610,,5122.92,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,FGA,,hsa:51592,Protein,Cytoplasm,123970,,2474.79,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,HSPD1,,hsa:3329,Protein,Cytoplasm,63030,,3476.12,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,HBD,,hsa:54933,Protein,Cytoplasm,33330,,6519.65,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,CFB,,hsa:629,Protein,Cytoplasm,84040,,1770.59,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PTGDS,,hsa:5730,Protein,Cytoplasm,20900,,7095.69,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,ATP5F1B,,hsa:506,Protein,Cytoplasm,58190,,2247.81,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,GSTP1,,hsa:2950,Protein,Cytoplasm,23100,,5294.37,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,TPI1,,hsa:7167,Protein,Cytoplasm,27390,,4140.2,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PRDX1,,hsa:5052,Protein,Cytoplasm,21890,,5102.79,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,SOD1,,hsa:6647,Protein,Cytoplasm,16940,,5643.45,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,HSPA5,,hsa:3309,Protein,Cytoplasm,71940,,1319.15,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PRDX2,,hsa:7001,Protein,Cytoplasm,21780,,4022.04,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,GPX3,,hsa:2878,Protein,Cytoplasm,24860,,3451.33,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,LYZ,,hsa:285148,Protein,Cytoplasm,27280,,3141.5,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PON1,,hsa:5444,Protein,Cytoplasm,39050,,2184.38,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,NME2,,hsa:654364,Protein,Cytoplasm,29370,,2870.28,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,ILK,,hsa:80895,Protein,Cytoplasm,43120,,1720.78,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PRDX6,,hsa:9588,Protein,Cytoplasm,24640,,2962.66,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,F13A1,,hsa:2162,Protein,Cytoplasm,80520,,856.93,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PDIA3,,hsa:2923,Protein,Cytoplasm,55550,,1242.12,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,CFI,,hsa:27068,Protein,Cytoplasm,36740,,1823.63,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PARK7,,hsa:11315,Protein,Cytoplasm,20790,,3150.55,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PPIB,,hsa:5479,Protein,Cytoplasm,23760,,2630.47,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,C6,,hsa:118424,Protein,Cytoplasm,28490,,2151.63,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PYGM,,hsa:5837,Protein,Cytoplasm,92620,,660.764,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PGAM1,,hsa:5223,Protein,Cytoplasm,27940,,2125.98,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,P4HB,,hsa:5034,Protein,Cytoplasm,55880,,1034.36,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,KLKB1,,hsa:3818,Protein,Cytoplasm,70180,,816.472,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,NCL,,hsa:5538,Protein,Cytoplasm,33660,,1636.96,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,ENO3,,hsa:2027,Protein,Cytoplasm,47740,,1095.52,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,IDH2,,hsa:3418,Protein,Cytoplasm,49720,,989.541,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,TKT,,hsa:4921,Protein,Cytoplasm,94050,,490.165,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,ENO2,,hsa:2026,Protein,Cytoplasm,47740,,950.984,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PRDX3,,hsa:10935,Protein,Cytoplasm,28160,,1512.78,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,GSTO1,,hsa:9446,Protein,Cytoplasm,26510,,1572.99,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,CA1,,hsa:2517,Protein,Cytoplasm,51260,,803.746,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PHB2,,hsa:2048,Protein,Cytoplasm,116050,,354.158,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,RPS6,,hsa:6195,Protein,Cytoplasm,80850,,497.217,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PDIA6,,hsa:10130,Protein,Cytoplasm,48400,,785.124,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,NONO,,hsa:55907,Protein,Cytoplasm,47740,,766.653,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,DDX39B,,hsa:7919,Protein,Cytoplasm,47080,,754.036,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,FKBP1A,,hsa:2280,Protein,Cytoplasm,11880,,2878.79,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PSMB1,,hsa:5689,Protein,Cytoplasm,26510,,1252.36,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,AK2,,hsa:204,Protein,Cytoplasm,26290,,1259.03,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,TALDO1,,hsa:6888,Protein,Cytoplasm,37070,,884.813,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,HADHA,,hsa:3030,Protein,Cytoplasm,83930,,388.419,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,CYB5R3,,hsa:1727,Protein,Cytoplasm,33110,,960.435,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PSMA2,,hsa:5683,Protein,Cytoplasm,25740,,1231.55,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PSMA1,,hsa:5682,Protein,Cytoplasm,28930,,1081.92,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,ALDOC,,hsa:230,Protein,Cytoplasm,40040,,769.231,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PTGES3,,hsa:10728,Protein,Cytoplasm,17600,,1732.95,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PSMA5,,hsa:5686,Protein,Cytoplasm,26510,,1146.74,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,UBE2N,,hsa:7334,Protein,Cytoplasm,16720,,1728.47,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PGD,,hsa:5226,Protein,Cytoplasm,53130,,542.067,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PSMB3,,hsa:5691,Protein,Cytoplasm,22550,,1263.86,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,CST1,,hsa:149095,Protein,Cytoplasm,77660,,345.094,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PSMB4,,hsa:5692,Protein,Cytoplasm,29040,,895.317,PaxDb_v6_integrated; KEGG_EC; BRENDA
+Homo sapiens,9606,PGK2,,hsa:5232,Protein,Cytoplasm,45870,,566.819,PaxDb_v6_integrated; KEGG_EC; BRENDA

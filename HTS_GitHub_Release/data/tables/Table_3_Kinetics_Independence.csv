@@ -1,0 +1,7 @@
+Pair type,S variant,E. coli,Mammalian,S. cerevisiae
+Protein–metabolite,kcat/Km only,0.951,0.945,0.907
+Protein–metabolite,KEGG + kinetics,0.707,0.684,0.500
+Protein–metabolite,J only (no S),0.686,0.641,0.425
+All pairs (reference),KEGG + kinetics,0.740,0.797,0.738
+,,,,,
+Note,"AUC for classifying validated vs. non-validated interaction pairs. 'kcat/Km only' uses strictly matched enzyme kinetics with no database co-occurrence labels. n_pos (protein–metabolite) = 10 / 11 / 10; directional trend consistent across all 5-fold CV folds and all species.",,,,
