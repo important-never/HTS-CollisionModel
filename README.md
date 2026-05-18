@@ -1,12 +1,14 @@
-HTS-CollisionModel
+# HTS-CollisionModel
+
 Companion code and processed data for:
 
-Protein specificity reshapes molecular encounters in cellular metabolism
+**Protein specificity reshapes molecular encounters in cellular metabolism**
 
 Tong and Chen, submitted.
 
 This repository supports the analyses in the manuscript. The study asks how expressed proteins and metabolites become prioritized for productive molecular encounters in crowded cells. The model combines three layers into a pairwise protein-metabolite encounter score:
 
+```text
 A_ij = Psi_ij x J_ij x S_ij
 where Psi represents compartmental access, J represents Smoluchowski collision frequency, and S represents enzyme specificity. The model uses predefined physical and biochemical rules, with no parameters fitted to known partners or downstream outcomes.
 
